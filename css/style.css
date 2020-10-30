@@ -27,7 +27,10 @@ p{
 button{
     border: 1px solid orange;
     background-color: white;
+    font-size: 100%;
     width: 200px;
     height: 60px;
     margin: 20px;
+    color: orange;
+    font-family: 'Playfair Display', serif;
 }
